@@ -1,31 +1,30 @@
-📦 Node.js + MongoDB App with Docker Compose
-This project is a simple web app built with Node.js, connected to a MongoDB database using Docker Compose.
+# 📦 Node.js + MongoDB App with Docker Compose
 
-✅ Features:
-Node.js Express server
+This project is a simple web app built with **Node.js**, connected to a **MongoDB** database using **Docker Compose**.
 
-MongoDB connection using Mongoose
+---
 
-Dockerized app with Dockerfile
+## ✅ Features
 
-Multi-container setup using docker-compose.yml
+- 🟢 Node.js Express server  
+- 🗃️ MongoDB connection using Mongoose  
+- 🐳 Dockerized app with `Dockerfile`  
+- 🧩 Multi-container setup using `docker-compose.yml`  
+- ⚙️ Environment variable configuration  
 
-Environment variable configuration
+---
 
-🐳 Technologies Used:
-Node.js
+## 🐳 Technologies Used
 
-Express.js
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- Docker & Docker Compose  
 
-MongoDB
+---
 
-Mongoose
+## 🚀 How to Run
 
-Docker & Docker Compose
-```
-<h1>🚀 How to Run</h1>
-``` bash
+```bash
 docker-compose up
-```
-App runs on: http://localhost:3000
-
